@@ -14,3 +14,10 @@
 >  > This is a second blockquote
 >  
 > This is a first blockquote
+
+### 목록 (LIST)
+#### 1) 순서가 있는 목록
+1. 집에가고싶습니다!
+2. 집에너무가고싶습니다!
+3. 지엔장!
+4. 아악 살려줘!!!!
