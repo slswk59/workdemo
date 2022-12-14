@@ -1,6 +1,3 @@
 파이팅
-
-red
-
 world
-
+blue
