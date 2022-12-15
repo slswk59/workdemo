@@ -70,5 +70,5 @@ repository에서 프로젝트의 설명을 부여해줄때 `README.md`을 사용
 
 ### 링크(Links)
 [naver](https://www.naver.com/)  
-
+[link](a.txt)
 
