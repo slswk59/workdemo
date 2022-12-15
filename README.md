@@ -79,7 +79,7 @@ repository에서 프로젝트의 설명을 부여해줄때 `README.md`을 사용
 
 ![box](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAPHyHMfGOsaIi-jemCmxC1-j8JYaAOrKtTg&usqp=CAU)  
 [![daum](images/daum.png)](https://www.daum.net/)  
-[![daum](images/pepe.jpg)](https://www.daum.net/)  
+[![pepe](images/pepe.jpg)](https://www.daum.net/)  
 
 <img src='images/daum.png' alt='daum'>
 
