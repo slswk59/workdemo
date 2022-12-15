@@ -74,3 +74,6 @@ repository에서 프로젝트의 설명을 부여해줄때 `README.md`을 사용
 
 다음 홈페이지 : <https://www.daum.net/>
 
+### 이미지(images)
+![naver](https://www.naver.com/)
+
