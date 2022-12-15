@@ -60,3 +60,12 @@ repository에서 프로젝트의 설명을 부여해줄때 `README.md`을 사용
     System.out.println("Hello java");
    } 
   ```
+
+  ### 글자 강조
+  **굵은 글씨**
+  *이텔릭*
+  _이텔릭_
+  ~~취소선~~
+  <u>밑줄</u>
+
+
